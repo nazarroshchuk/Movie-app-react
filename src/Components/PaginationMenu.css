@@ -1,0 +1,8 @@
+.paginationContainer {
+    padding: 30px;
+    margin: auto;
+}
+
+.MuiPagination-ul.list {
+    justify-content: center;
+}

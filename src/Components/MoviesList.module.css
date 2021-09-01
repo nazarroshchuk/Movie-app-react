@@ -1,0 +1,14 @@
+.containerList {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.containerList::after {
+    content: '';
+    width: 350px;
+}
+
+

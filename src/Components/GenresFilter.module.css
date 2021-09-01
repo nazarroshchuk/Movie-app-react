@@ -1,0 +1,13 @@
+.genresFilter {
+    width: 500px;
+    margin: 0 90px 0 auto;
+    padding: 50px 0;
+    text-align: left;
+    color: white;
+    font-size: 24px;
+}
+.genresFilter label {
+    padding: 20px 0;
+    display: block;
+}
+
